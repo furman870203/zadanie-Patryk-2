@@ -1,0 +1,23 @@
+.title {
+  text-align: center;
+}
+
+.photo {
+  width: 33, 333;
+  display: flex;
+}
+
+.photo img {
+  width: 20%;
+  padding: 2px;
+}
+
+.popup {
+  text-align: center;
+  padding: 20px;
+  background: gray;
+  opacity: 99%;
+  margin: -400px;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLGtCQUFBO0FDQ0o7O0FEQ0E7RUFDSSxjQUFBO0VBQ0EsYUFBQTtBQ0VKOztBREFBO0VBQ0ksVUFBQTtFQUNBLFlBQUE7QUNHSjs7QUREQTtFQUNJLGtCQUFBO0VBQ0EsYUFBQTtFQUNBLGdCQUFBO0VBQ0EsWUFBQTtFQUNBLGNBQUE7QUNJSiIsImZpbGUiOiJzdHlsZS5jc3MifQ== */
