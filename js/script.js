@@ -6,8 +6,10 @@ function showPhoto(event) {
     previev.setAttribute('src', fullSize);
     const title = document.querySelector('h2');
     title.innerHTML = photo.getAttribute('alt');
-    const country = document.querySelector('p');
+    const country = document.querySelector('h3');
     country.innerHTML = photo.getAttribute('country');
+    const opis = document.querySelector('h4');
+    opis.innerHTML = photo.getAttribute('opis');
 }
 
 const allPhotos = document.querySelectorAll('.photo img');
